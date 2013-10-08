@@ -1,0 +1,54 @@
+var jsonIn = {
+	"worldName": "Test world",
+	"createdBy": "Richard Brown",
+	"rooms": [
+		{
+			"ID": 1,
+			"Name": "Two Doors",
+			"Paths": [
+				{
+					"direction": "north",
+					"dest": 2
+				},
+				{
+					"direction": "east",
+					"dest": 3
+				}
+			]
+		},
+		{
+			"ID": 2,
+			"Name": "Empty Room",
+			"Paths": [
+				{
+					"direction": "south",
+					"dest": 1
+				}
+			]
+		},
+		{
+			"ID": 3,
+			"Name": "Hallway",
+			"Paths": [
+				{
+					"direction": "west",
+					"dest": 1
+				},
+				{
+					"direction": "east",
+					"dest": 4
+				}
+			]
+		},
+		{
+			"ID": 4,
+			"Name": "Another Dead End",
+			"Paths": [
+				{
+					"direction": "west",
+					"dest": 3
+				}
+			]
+		}
+	]
+}
