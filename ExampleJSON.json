@@ -1,4 +1,4 @@
-var jsonIn = {
+{
 	"worldName": "Test world",
 	"createdBy": "Richard Brown",
 	"rooms": [
