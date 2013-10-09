@@ -5,7 +5,7 @@
 		{
 			"ID": 1,
 			"Name": "Two Doors",
-			"shortDesc": "An empty room with two doors."
+			"shortDesc": "An empty room with two doors.",
 			"Paths": [
 				{
 					"direction": "north",
