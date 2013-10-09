@@ -5,6 +5,7 @@
 		{
 			"ID": 1,
 			"Name": "Two Doors",
+			"shortDesc": "An empty room with two doors."
 			"Paths": [
 				{
 					"direction": "north",
@@ -19,6 +20,7 @@
 		{
 			"ID": 2,
 			"Name": "Empty Room",
+			"shortDesc": "A bland magnolia room with nothing in it.",
 			"Paths": [
 				{
 					"direction": "south",
@@ -29,6 +31,7 @@
 		{
 			"ID": 3,
 			"Name": "Hallway",
+			"shortDesc": "You are in a majestic hallway, lit from some unknown source.",
 			"Paths": [
 				{
 					"direction": "west",
@@ -43,6 +46,7 @@
 		{
 			"ID": 4,
 			"Name": "Another Dead End",
+			"shortDesc": "You find yourself in a concrete room, with bland grey walls.",
 			"Paths": [
 				{
 					"direction": "west",
